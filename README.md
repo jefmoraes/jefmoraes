@@ -10,8 +10,8 @@
 </br>
 <div align="center">
   <a href="https://github.com/jefmoraes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefmoraes&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=jefmoraes&hide_border=true&date_format=j%2Fn%5B%2FY%5D&locale=pt-br&background=09131B&fire=FE652F&currStreakNum=FE652F&stroke=FE652F&border=FFFFFF&ring=FE652F&sideNums=FE652F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jefmoraes&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=jefmoraes&hide_border=true&date_format=j%2Fn%5B%2FY%5D&locale=pt-br&background=09131B&fire=FE652F&currStreakNum=FE652F&stroke=FE652F&border=FFFFFF&ring=FE652F&sideNums=FE652F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
   </a>
 </div>
 
