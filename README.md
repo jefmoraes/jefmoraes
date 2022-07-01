@@ -27,7 +27,6 @@
   <img align="center" style="margin-top: 100px;" alt="jef-typescript" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
    <img align="center" style="margin-top: 100px;" alt="jef-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
    <img align="center" style="margin-top: 100px;" alt="jef-javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-   <img align="right" alt="Jef-pic" height="150" style="border-radius:50px;" src="foto aquiiiii">
 </div>
 
 ##
