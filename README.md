@@ -27,6 +27,7 @@
   <img align="center" style="margin-top: 100px;" alt="jef-typescript" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
    <img align="center" style="margin-top: 100px;" alt="jef-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
    <img align="center" style="margin-top: 100px;" alt="jef-javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+   <img align="right" alt="Jef-pic" height="150" style="border-radius:50px;" src="foto aquiiiii">
 </div>
 
 ##
@@ -34,7 +35,8 @@
 <div></br>
    <a href="https://www.instagram.com/je_moraisdutra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jeferson_moraisdutra@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jeferson-moraes-610618223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jeferson-moraes-610618223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
   
   
 ![Snake animation](https://github.com/jefmoraes/jefmoraes/blob/output/github-contribution-grid-snake.svg)
