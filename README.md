@@ -1,5 +1,5 @@
 ### 
-<p align="center">Atualmente estudo a ferramenta React, React Native, por meio desta construo pequenas aplicações mobile. Procuro uma oportunidade de aprimorar minhas capacidades de programação. O github é a casa das minhas ideias, então entre e <strong>fique a vontade</strong>.</p>
+<p align="center">Atualmente estudo as ferramentas React e React Native, por meio destas construo pequenas aplicações. Procuro uma oportunidade de aprimorar minhas capacidades de programação. O github é a casa das minhas ideias, então entre e <strong>fique a vontade</strong>.</p>
 
 <div align="center">
    <img width="400" src="https://user-images.githubusercontent.com/82906124/176824737-8f0407f6-7b3a-45e2-99ca-72a1159304cc.png">
