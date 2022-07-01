@@ -25,21 +25,29 @@
   <img align="center" style="margin-top: 100px;" alt="jef-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" style="margin-top: 100px;" alt="jef-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" style="margin-top: 100px;" alt="jef-typescript" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-   <img align="center" style="margin-top: 100px;" alt="jef-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+   <img align="center" style="margin-top: 100px;" alt="jef-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
    <img align="center" style="margin-top: 100px;" alt="jef-javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+   <img align="center" style="margin-top: 100px;" alt="jef-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
 </div>
+
+
 
 ##
 
 <div></br>
    <a href="https://www.instagram.com/je_moraisdutra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jeferson_moraisdutra@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jeferson-moraes-610618223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href = "mailto:jeferson_moraisdutra@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jeferson-moraes-610618223/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://github.com/jefmoraes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a> 
   
   
 ![Snake animation](https://github.com/jefmoraes/jefmoraes/blob/output/github-contribution-grid-snake.svg)
-
+ </br>
+  </br>
+  <img height="100em"  align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)">
+  </br>
+  </br>
 </div>
 
   
