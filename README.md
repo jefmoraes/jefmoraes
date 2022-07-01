@@ -2,7 +2,7 @@
 <p align="center">Atualmente estudo a ferramenta React, React Native, por meio desta construo pequenas aplicações mobile. Procuro uma oportunidade de aprimorar minhas capacidades de programação. O github é a casa das minhas ideias, então entre e <strong>fique a vontade</strong>.</p>
 
 <div align="center">
-   <img width="400" src="https://user-images.githubusercontent.com/82906124/176812820-e5a75894-eedd-439f-b2cb-2dfaa581bce5.png">
+   <img width="400" src="https://user-images.githubusercontent.com/82906124/176824737-8f0407f6-7b3a-45e2-99ca-72a1159304cc.png">
 </div>
 
 ##
