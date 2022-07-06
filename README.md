@@ -28,9 +28,8 @@
    <img align="center" style="margin-top: 100px;" alt="jef-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
    <img align="center" style="margin-top: 100px;" alt="jef-javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
    <img align="center" style="margin-top: 100px;" alt="jef-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+   <img align="center" style="margin-top: 100px;" alt="jef-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg">
 </div>
-
-
 
 ##
 
